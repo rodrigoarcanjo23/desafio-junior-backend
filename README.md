@@ -7,3 +7,11 @@
 ### • Campos mínimos da entidade de tarefas
 ### - Nome
 ### - Descrição 
+### - Realizado
+### - Prioridade
+### • Criar CRUD de tarefas
+## Instruções
+### • Fazer um fork do repositório para sua conta  pessoal do git
+### • Trabalhar utilizando commits
+### • Documentar como executar sua aplicação
+### • Descrever as funcionalidades do software

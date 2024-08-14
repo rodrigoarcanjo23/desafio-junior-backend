@@ -46,3 +46,7 @@
 ## ![footer](https://github.com/user-attachments/assets/5dc0f69f-d5d6-4fc6-b8b3-347fb79be60c)
 + Listar tarefa:
 ## ![footer](https://github.com/user-attachments/assets/aab9bd38-7713-4f0a-b631-4790f505b039)
++ Atualizar tarefa:
+## ![footer]()
++ Deletar tarefa:
+## ![footer]()

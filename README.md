@@ -42,5 +42,5 @@
 ### A API poderá ser acessada em [localhost:8080.](http://localhost:8080/) O Swagger poderá  ser visualizado em [localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui/)
 # API Endpoints
 ### Para fazer as requisições HTTP abaixo, foi utilizada a ferramenta [httpie:](https://httpie.io/) 
-+ Criar tarefa
-## ![footer]()
++ Criar tarefa:
+## ![footer](https://github.com/user-attachments/assets/5dc0f69f-d5d6-4fc6-b8b3-347fb79be60c)

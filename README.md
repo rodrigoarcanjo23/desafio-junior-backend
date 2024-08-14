@@ -38,4 +38,4 @@
 + Construir o projeto:
 ## ![footer](https://github.com/user-attachments/assets/e8f9fb74-80c1-4e3d-acff-936ec942441a)
 + Executar a aplicação:
-## ![footer]()
+## ![footer](https://github.com/user-attachments/assets/24e176d2-75d8-4e19-8fe6-823247b52605)

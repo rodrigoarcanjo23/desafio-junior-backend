@@ -40,3 +40,7 @@
 + Executar a aplicação:
 ## ![footer](https://github.com/user-attachments/assets/24e176d2-75d8-4e19-8fe6-823247b52605)
 ### A API poderá ser acessada em [localhost:8080.](http://localhost:8080/) O Swagger poderá  ser visualizado em [localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui/)
+# API Endpoints
+### Para fazer as requisições HTTP abaixo, foi utilizada a ferramenta [httpie:](https://httpie.io/) 
++ Criar tarefa
+## ![footer]()

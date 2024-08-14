@@ -49,4 +49,4 @@
 + Atualizar tarefa:
 ## ![footer](https://github.com/user-attachments/assets/fe4d7fb5-0463-4b7b-a067-774c344e5b71)
 + Deletar tarefa:
-## ![footer]()
+## ![footer](https://github.com/user-attachments/assets/0106b3d2-bb87-45fe-a4eb-e2141a3384b9)

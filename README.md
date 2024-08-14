@@ -33,3 +33,6 @@
 ### • Injeção de Dependências
 ### • Tratamento de respostas de erro
 ### • Geração automática do Swagger com a OpenAPI 3
+## Como Executar
++ Clonar repositório git
++ Construir o projeto 

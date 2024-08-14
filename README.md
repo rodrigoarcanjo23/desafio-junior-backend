@@ -15,3 +15,21 @@
 ### • Trabalhar utilizando commits
 ### • Documentar como executar sua aplicação
 ### • Descrever as funcionalidades do software
+
+
+# TODO LIST
+### @rodrigoarcanjo23 ### Desafio
+### API para gerenciar tarefas (CRUD) que faz parte desse desafio para pessoas desenvolvedoras backend júnior, que se candidatam para a Simplify.
+## Tecnologias
+### • Spring Boot
+### • Spring MVC
+### • Spring Data JPA
+### • SpringDoc OpenAPI 3
+### • Mysql
+## Práticas adotadas
+### • SOLID, DRY, YAGNI, KISS
+### • API REST
+### • Consultas com Spring Data JPA
+### • Injeção de Dependências
+### • Tratamento de respostas de erro
+### • Geração automática do Swagger com a OpenAPI 3

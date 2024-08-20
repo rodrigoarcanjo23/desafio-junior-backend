@@ -1,6 +1,6 @@
 # TODO LIST
 ### @rodrigoarcanjo23 🚀
-### API para gerenciar tarefas (CRUD) que faz parte desse desafio para pessoas desenvolvedoras backend júnior, que se candidatam para a Simplify.
+### API para gerenciar tarefas (CRUD) que faz parte desse desafio para pessoas desenvolvedoras backend júnior.
 ## Tecnologias
 ### [• Spring Boot](https://github.com/spring-projects/spring-boot/)
 ### [• Spring MVC](https://spring.io/guides/gs/serving-web-content)
